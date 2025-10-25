@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 if (place_meeting(x,y,obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh) && global.mouseclicking = true) {
 	
 	codeisdrag = true
@@ -13,7 +17,9 @@ else {
 	codeisdrag = false	
 	if (justfired = true) { 
 		//tossed()
+		
 		justfired = false
+		alarm[1] = 60 * time_source_units_frames
 	}
 }
 
@@ -26,21 +32,7 @@ function tossed() {
 		physics_apply_impulse(x, y, lengthdir_x(throw_speed, _dir), lengthdir_y(throw_speedother, _dir))
 }
 
-function isThisAssholeMoving() { // check if the guy is moving by compairing current and last x,y vaules
-	lastx = phy_position_xprevious //the x vaule of the last x and y (code in step)
-	lasty = phy_position_yprevious
-	currentx = phy_position_x
-	currenty = phy_position_y
-	//if ((round(currentx)== lastx) && (round(currenty)== lasty) ){
-	//	thisfellamoving = false
-//	}
-	//else {
-	//	thisfellamoving = true
-	//}
-//show_debug_message(thisfellamoving)
 
-
-}
 
 if codeisdrag = true {
 	justfired = true
@@ -50,6 +42,7 @@ if codeisdrag = true {
 	
 	phy_speed_y = 0
 	phy_speed_y = 0
+	normalState = false
 	
 }
 	
@@ -59,4 +52,6 @@ if codeisdrag = true {
 	
 	
 // fuction dump this is badly optimized I know
-isThisAssholeMoving()
+normalState_Tree()
+
+//test()

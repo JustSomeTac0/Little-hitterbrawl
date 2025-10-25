@@ -14,7 +14,10 @@
     "name":"Charater Collsion",
     "path":"folders/Objects/Extra Collsion/Charater Collsion.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_testForDaplayer",
+    "path":"objects/obj_testForDaplayer/obj_testForDaplayer.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -1,0 +1,46 @@
+This is a note for some coding stuff so I don't have to look this back up
+
+Its like a notebook :)
+
+
+
+/////////FOR LOOP/////////////
+
+runs code a curtain amount of times
+
+
+                 runs 11 times
+
+ 	
+ 0,1,2,3,4,5,6,7,8,9,10,11
+   number starts 
+	           when this is meet it nolonger runs
+			            after running the code this increases the number and then the code runs agian
+for (var i = 0; i < 10; i += 1) 
+{
+
+}
+
+
+
+
+///////DEBUG MESSAGE////?////////
+
+
+
+ runs a debug message to the debug output
+show_debug_message("this is a test duh")
+
+
+
+
+////////Random stuff///////////
+
+all genarate a random number from 0 to the number put in
+
+makes a random number with decimals so 22.567532 can show up
+random(number goes here)
+
+
+same but only whole numbers so no decimals (way better)
+irandom(number goes here)

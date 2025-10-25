@@ -5,7 +5,7 @@ if place_meeting(x,y,obj_wallandfloorto) { // checking is the guy still there
 	alarm[1] = 15 * time_source_units_frames
 }
 else {
-	onetimevarforstoppingshit = false	
+	onetimevarforstoppingshit = false	//resets it all if false
 }
 
 

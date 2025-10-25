@@ -4,6 +4,15 @@
 
 
 
+/////////October 24th 2025
+// guess I am keeping this as a little diary entry almost I'm currently low on motivation but I will keeping pushing threw I have too.
+// I want to make this work and I want to keep going I love this idea and I might fail
+// but Nobody else can pcik my brain only me
+/////// Guess I'm just a Bird Brain :PPPPPPPP
+
+
+
+
 
 
 

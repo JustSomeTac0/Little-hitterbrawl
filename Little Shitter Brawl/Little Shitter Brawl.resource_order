@@ -25,8 +25,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Note1","order":1,"path":"notes/Note1/Note1.yy",},
     {"name":"obj_B_UI_Bumton_heheee","order":1,"path":"objects/obj_B_UI_Bumton_heheee/obj_B_UI_Bumton_heheee.yy",},
     {"name":"obj_slope","order":2,"path":"objects/obj_slope/obj_slope.yy",},
+    {"name":"obj_startingSHIT","order":8,"path":"objects/obj_startingSHIT/obj_startingSHIT.yy",},
     {"name":"obj_testForDaplayer","order":1,"path":"objects/obj_testForDaplayer/obj_testForDaplayer.yy",},
     {"name":"obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh","order":3,"path":"objects/obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh/obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh.yy",},
     {"name":"Collsionbox","order":5,"path":"sprites/Collsionbox/Collsionbox.yy",},

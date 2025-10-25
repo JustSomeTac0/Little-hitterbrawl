@@ -4,9 +4,14 @@ image_angle = obj_testForDaplayer.image_angle
 
 
 
+
 if place_meeting(x,y,obj_wallandfloorto) && onetimevarforstoppingshit == false {
+	
+	with (obj_testForDaplayer) {
+		obj_testForDaplayer.normalState = false
+	}
 	onetimevarforstoppingshit = true
 	show_debug_message("collided :0")
-	alarm[0] = 175 * time_source_units_frames
+	alarm[0] = 75 * time_source_units_frames
 
 }

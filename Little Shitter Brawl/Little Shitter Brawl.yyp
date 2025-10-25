@@ -45,9 +45,11 @@
   "name":"Little Shitter Brawl",
   "resources":[
     {"id":{"name":"test_font_funny_sans","path":"fonts/test_font_funny_sans/test_font_funny_sans.yy",},},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_B_UI_Bumton_heheee","path":"objects/obj_B_UI_Bumton_heheee/obj_B_UI_Bumton_heheee.yy",},},
     {"id":{"name":"obj_Bottom_UI","path":"objects/obj_Bottom_UI/obj_Bottom_UI.yy",},},
     {"id":{"name":"obj_slope","path":"objects/obj_slope/obj_slope.yy",},},
+    {"id":{"name":"obj_startingSHIT","path":"objects/obj_startingSHIT/obj_startingSHIT.yy",},},
     {"id":{"name":"obj_testForDaplayer","path":"objects/obj_testForDaplayer/obj_testForDaplayer.yy",},},
     {"id":{"name":"obj_testGuyCollsion","path":"objects/obj_testGuyCollsion/obj_testGuyCollsion.yy",},},
     {"id":{"name":"obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh","path":"objects/obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh/obj_thatstupidmosuethingwhatitcalleduhhhhhhhhhh.yy",},},
