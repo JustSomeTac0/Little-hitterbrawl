@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Gulboo",
+  "%Name":"Gulboo_1",
   "bboxMode":2,
   "bbox_bottom":58,
   "bbox_left":18,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"7b4553d9-103e-44ba-b94f-f204b1747cf7","blendMode":0,"displayName":"default","isLocked":false,"name":"7b4553d9-103e-44ba-b94f-f204b1747cf7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Gulboo",
+  "name":"Gulboo_1",
   "nineSlice":{
     "$GMNineSliceData":"",
     "bottom":15,
@@ -90,7 +90,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0d7c2f35-a9e2-45e9-81dc-e224188c1b1b","path":"sprites/Gulboo/Gulboo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0d7c2f35-a9e2-45e9-81dc-e224188c1b1b","path":"sprites/Gulboo_1/Gulboo_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9aa855f9-5818-40ee-a6ad-4427444b65a0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

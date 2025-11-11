@@ -1,0 +1,1 @@
+global.canshittersmove = true
